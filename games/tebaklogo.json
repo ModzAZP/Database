@@ -1,0 +1,922 @@
+[
+{
+
+"description": "Air mineral merek",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q1.png",
+"answer": "Evian"
+},
+{
+
+"description": "Konglomerat manufaktur dan pengolahan makanan Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q3.png",
+"answer": "Kraft"
+},
+{
+
+"description": "Bumbu, Sop, dan Mie Merk Internasional",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q4.png",
+"answer": "Maggi"
+},
+{
+
+"description": "Sebuah rantai restoran cepat saji hamburger multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q5.png",
+"answer": "Burger King"
+},
+{
+
+"description": "Perusahaan Vermont yang memproduksi es krim, yogurt beku, dan sorbet",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q6.png",
+"answer": "Ben & Jerry's"
+},
+{
+
+"description": "Sebuah jaringan restoran fast casual Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q7.png",
+"answer": "Chipotle"
+},
+{
+
+"description": "Perusahaan kopi dan donat multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q9.png",
+"answer": "Dunkin' Donuts"
+},
+{
+ 
+ "description": "Merek minuman ringan berkarbonasi rasa buah",
+ "imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q10.png",
+ "answer": "Fanta"
+},
+{
+ 
+ "description": "Sebuah kue wafer berlapis cokelat",
+ "imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q11.png",
+ "answer": "KitKat"
+},
+{
+ 
+ "description": "Sebuah jaringan restoran cepat saji yang berbasis di Amerika",
+ "imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q12.png",
+ "answer": "Taco Bell"
+},
+{
+ 
+"description": "Konglomerat makanan Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q13.png",
+"answer": "Quaker"
+},
+{
+
+"description": "Sebuah jaringan restoran cepat saji Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q16.png",
+"answer": "KFC"
+},
+{
+
+"description": "Sebuah merek Amerika untuk keripik kentang stackable",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q17.png",
+"answer": "Pringles"
+},
+{
+
+"description": "Minuman energi",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q18.png",
+"answer": "Red Bull"
+},
+{
+
+"description": "Sebuah merek cokelat batangan",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q19.png",
+"answer": "Snickers"
+},
+{
+
+"description": "Minuman ringan rasa lemon dan jeruk nipis yang tidak berwarna",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q20.png",
+"answer": "Sprite"
+},
+{
+
+"description": "Sebuah merek keripik tortilla rasa Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q21.png",
+"answer": "Doritos"
+},
+{
+
+"description": "Merek Varietas Keripik Kentang",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q24.png",
+"answer": "Lays"
+},
+{
+
+"description": "Minuman ringan berkarbonasi",
+ "imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q26.png",
+ "answer": "Coca Cola"
+},
+{
+ 
+"description": "Sebuah jaringan restoran pizza multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q29.png",
+"answer": "Domino Pizza"
+},
+{
+
+"description": "Bir lager pucat dengan alkohol 5%",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q32.png",
+"answer": "heineken"
+},
+{
+
+"description": "Minuman ringan berkarbonasi",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q33.png",
+"answer": "Pepsi"
+},
+{
+
+"description": "Sebuah perusahaan makanan cepat saji Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q34.png",
+"answer": "McDonald's"
+},
+{
+
+"description": "Rantai kedai kopi dan tempat pemanggangan kopi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q35.png",
+"answer": "Starbucks"
+},
+{
+
+"description": "Minuman energi yang diperkenalkan oleh Hansen Natural Company",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q37.png",
+"answer": "Monster"
+},
+{
+
+"description": "Sebuah jaringan restoran Amerika dan waralaba internasional",
+"imageUrl": "https://logoquiz.b-cdn.net/food/questions/food_q38.png",
+"answer": "Pizza Hut"
+},
+{
+
+"description": "sistem operasi robot hijau milik google yang biasa digunakan pada Smartphone",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/android.png",
+"answer": "Android"
+},
+{
+
+"description": "perangkat lunak yang dimilikinya adalah pdf reader, Photoshop, Lightroom dll.",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/adobe.png",
+"answer": "Adobe"
+},
+{
+
+"description": "browser andalan Google",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/chrome.png",
+"answer": "Chrome"
+},
+{
+
+"description": "perangkat lunak email dari google",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/gmail.png",
+"answer": "Gmail"
+},
+{
+
+"description": "Situs media sosial pada tempatnya para pendongeng handal",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/twitter.png",
+"answer": "Twitter"
+},
+{
+
+"description": "cafe/Perusahaan kopi paling terkenal di dunia",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/starbucks.png",
+"answer": "Starbucks"
+},
+{
+
+"description": "Salah satu konsol game terbaik",
+"imageUrl": "https://raw.githubusercontent.com/azinker/LogoQuiz/master/images/logos/xbox.png",
+"answer": "Xbox"
+},
+{
+
+"description": "merk fashion mewah Prancis",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q1.png",
+"answer": "Channel"
+},
+{
+
+"description": "Produsen pakaian Amerika, yang mengkhususkan diri dalam pakaian olahraga",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q7.png",
+"answer": "Champion"
+},
+{
+
+"description": "Perusahaan rumah mode dan barang mewah Prancis",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q8.png",
+"answer": "Louis Vuitton"
+},
+{
+
+"description": "Sebuah perusahaan pakaian Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q10.png",
+"answer": "Levi's"
+},
+{
+
+"description": "Produsen jam tangan mewah yang berbasis di Jenewa, Swiss.",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q11.png",
+"answer": "rolex"
+},
+{
+
+"description": "Sebuah perusahaan manufaktur pakaian jadi yang terkenal dengan merek terbesarnya",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q12.png",
+"answer": "Dickies"
+},
+{
+
+ "description": "Perusahaan yang memproduksi dan mendistribusikan pakaian luar, pakaian olahraga, dan alas kaki",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q14.png",
+ "answer": "Columbia"
+},
+{
+ 
+ "description": "Produsen barang mewah Prancis",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q16.png",
+ "answer": "Hermes Paris"
+},
+{
+ 
+"description": "Sebuah toko skateboard dan merek pakaian yang berbasis di London",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q17.png",
+"answer": "Palace"
+},
+{
+
+"description": "Merek pakaian olahraga Italia berkualitas tinggi",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q18.png",
+"answer": "Kappa"
+},
+{
+
+"description": "Sebuah rumah mode mewah Inggris yang berkantor pusat di London",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q19.png",
+"answer": "Burberry"
+},
+{
+
+ "description": "Perusahaan multinasional Jerman",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q20.png",
+ "answer": "Puma"
+},
+{
+ 
+ "description": "Perusahaan alas kaki dan pakaian Inggris-Amerika",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q21.png",
+ "answer": "Reebok"
+},
+{
+
+"description": "Sebuah perusahaan pakaian ritel Italia, berlokasi di Breganze",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q25.png",
+"answer": "Diesel"
+},
+{
+
+"description": "Produsen pakaian olahraga yang mendesain sepatu dan pakaian",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q26.png",
+"answer": "Fila"
+},
+{
+
+"description": "Perusahaan mode dan nama dagang mewah Italia",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q27.png",
+"answer": "Versace"
+},
+{
+
+ "description": "Sebuah merek ritel remaja dan dewasa muda global",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q29.png",
+ "answer": "Hollister"
+},
+{
+ 
+ "description": "Sebuah perusahaan multinasional Amerika yang bergerak di bidang desain, pengembangan, manufaktur",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q33.png",
+ "answer": "Nike"
+},
+{
+ 
+ "description": "Perusahaan induk fashion multinasional",
+ "imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q36.png",
+ "answer": "Calvin Klein"
+},
+{
+ 
+"description": "Sebuah perusahaan peralatan olahraga Amerika yang memproduksi alas kaki, pakaian olahraga dan pakaian kasual",
+"imageUrl": "https://logoquiz.b-cdn.net/fashion/questions/fash_q38.png",
+"answer": "Fred Perry"
+},
+{
+
+"description": "Perusahaan teknologi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q1.png",
+"answer": "Apple"
+},
+{
+
+ "description": "Keluarga teknologi kompresi audio",
+ "imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q2.png",
+ "answer": "Dolby"
+},
+{
+ 
+ "description": "Sebuah perusahaan konglomerat multinasional Belanda",
+ "imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q3.png",
+ "answer": "Philips"
+},
+{
+ 
+ "description": "Sebuah perusahaan teknologi multinasional Cina yang mengkhususkan diri dalam e-commerce,",
+ "imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q4.png",
+ "answer": "Alibaba"
+},
+{
+ 
+"description": "Konglomerat teknologi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q6.png",
+"answer": "Cisco"
+},
+{
+
+"description": "Sebuah perusahaan multinasional Amerika dan perusahaan teknologi",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q7.png",
+"answer": "Intel"
+},
+{
+
+"description": "Perusahaan perangkat lunak komputer multinasional Amerika.",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q8.png",
+"answer": "Adobe"
+},
+{
+
+"description": "Perangkat seluler merek Prancis/Cina",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q9.png",
+"answer": "Alcatel"
+},
+{
+
+"description": "Sebuah perusahaan teknologi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q10.png",
+"answer": "Amazon"
+},
+{
+
+"description": "Sebuah perusahaan semikonduktor multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q11.png",
+"answer": "AMD"
+},
+{
+
+"description": "Perusahaan perangkat keras dan elektronik komputer dan telepon multinasional Taiwan",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q12.png",
+"answer": "ASUS"
+},
+{
+
+"description": "Sebuah perusahaan teknologi komputer multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q14.png",
+"answer": "Dell"
+},
+{
+ 
+ "description": "Perusahaan elektronik dan kebugaran konsumen Amerika",
+ "imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q15.png",
+ "answer": "Fitbit"
+},
+{
+ 
+ "description": "Perusahaan peralatan dan jasa teknologi informasi dan komunikasi multinasional Jepang",
+ "imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q16.png",
+ "answer": "Fujitsu"
+},
+{
+ 
+ "description": "Sebuah pasar online untuk penginapan, terutama homestay untuk persewaan liburan, dan kegiatan pariwisata.",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q17.png",
+"answer": "Airbnb"
+},
+{
+
+"description": "Sebuah perusahaan teknologi multinasional Cina",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q18.png",
+"answer": "Huawei"
+},
+{
+
+"description": "Subsindexiaries komunikasi seluler dari perusahaan telekomunikasi Jerman",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q19.png",
+"answer": "T-Mobile"
+},
+{
+
+"description": "Perusahaan konglomerat multinasional Korea Selatan",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q20.png",
+"answer": "LG"
+},
+{
+
+"description": "Sebuah perusahaan teknologi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q21.png",
+"answer": "Microsoft"
+},
+{
+
+"description": "Sebuah perusahaan telekomunikasi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q22.png",
+"answer": "Motorola"
+},
+{
+
+"description": "Sebuah perusahaan teknologi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q23.png",
+"answer": "Nvidia"
+},
+{
+
+"description": "Produsen elektronik konsumen Cina, perusahaan Amerika yang mengoperasikan pembayaran online",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q24.png",
+"answer": "Oneplus"
+},
+{
+
+"description": "Sebuah perusahaan Amerika yang mengoperasikan sistem pembayaran online",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q25.png",
+"answer": "Paypal"
+},
+{
+
+"description": "Konglomerat multinasional Korea Selatan",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q27.png",
+"answer": "Samsung"
+},
+{
+
+"description": "Sebuah perusahaan penyimpanan data Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q28.png",
+"answer": "Seagate"
+},
+{
+
+"description": "Perusahaan jaringan dan telekomunikasi multinasional Swedia",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q29.png",
+"answer": "Ericsson"
+},
+{
+
+"description": "Produsen produk audio konsumen Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q30.png",
+"answer": "Beats"
+},
+{
+
+"description": "elektronik multinasional Cina",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q31.png",
+"answer": "Xiaomi"
+},
+{
+
+"description": "Sebuah perusahaan teknologi Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q32.png",
+"answer": "Uber"
+},
+{
+
+"description": "Platform video online milik Google.",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q33.png",
+"answer": "Youtube"
+},
+{
+
+"description": "Layanan microblogging dan jejaring sosial Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q34.png",
+"answer": "Twitter"
+},
+{
+
+"description": "Merek smartphone, tablet, dan layanan",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q35.png",
+"answer": "Blackberry"
+},
+{
+
+"description": "Layanan file hosting yang dioperasikan oleh perusahaan Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q36.png",
+"answer": "Dropbox"
+},
+{
+
+"description": "Layanan media sosial dan jejaring sosial online Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q37.png",
+"answer": "Facebook"
+},
+{
+
+"description": "Sebuah perusahaan teknologi multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q38.png",
+"answer": "Google"
+},
+{
+
+"description": "Aplikasi perpesanan multimedia Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/technology/questions/tech_q39.png",
+"answer": "Snapchat"
+},
+{
+
+"description": "Platform konten dan perusahaan produksi Amerika Serikat",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q1.png",
+"answer": "Netflix"
+},
+{
+
+"description": "Perusahaan elektronik konsumen dan video game multinasional Jepang",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q2.png",
+"answer": "Nintendo"
+},
+{
+
+"description": "Sebuah studio film dan taman hiburan di area San Fernando Valley di Los Angeles County, California.",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q3.png",
+"answer": "Universal Studios"
+},
+{
+
+"description": "Sebuah waralaba media yang dibuat oleh Robert Kirkman",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q4.png",
+"answer": "The Walking Dead"
+},
+{
+
+"description": "Penerbit game video Prancis yang berbasis di Paris",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q5.png",
+"answer": "Gameloft"
+},
+{
+
+"description": "Serial televisi drama fantasi Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q6.png",
+"answer": "Game of Thrones"
+},
+{
+
+ "description": "Sebuah jaringan televisi berbayar multinasional Amerika dan saluran utama",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q7.png",
+ "answer": "Discovery"
+},
+{
+ 
+ "description": "Sebuah permainan papan yang saat ini diterbitkan oleh Hasbro",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q8.png",
+ "answer": "Monopoly"
+},
+  {
+ 
+ "description": "Konglomerat hiburan, permainan video, dan perjudian Jepang",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q9.png",
+ "answer": "Konami"
+},
+{
+ 
+ "description": "Pengembang dan penerbit game video multinasional Jepang",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q11.png",
+ "answer": "Bandai Namco"
+},
+{
+
+"description": "Konglomerat media massa dan hiburan multinasional Amerika yang terdiversifikasi",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q13.png",
+"answer": "Warner Bros"
+},
+{
+
+"description": "Penerbit game video Amerika yang berbasis di New York City",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q14.png",
+"answer": "Rockstar Games"
+},
+{
+
+"description": "Sebuah waralaba media yang berpusat pada serangkaian film aksi",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q15.png",
+ "answer": "Fast & Furious"
+},
+{
+ 
+ "description": "Penerbit game video Amerika yang berbasis di Santa Monica, California",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q17.png",
+ "answer": "Activision"
+},
+{
+
+"description": "Seorang pengusaha Amerika, animator, penulis, pengisi suara, dan produser film",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q19.png",
+"answer": "WaltDisney"
+},
+{
+
+"description": "Layanan video langganan Amerika atas permintaan streaming",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q21.png",
+"answer": "HBO Max"
+},
+{
+
+"description": "Film petualangan fiksi ilmiah Amerika Serikat tahun 2015",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q23.png",
+"answer": "Jurassic World"
+},
+{
+
+"description": "Apakah studio film Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q24.png",
+"answer": "Century Fox"
+},
+{
+
+"description": "Perusahaan hiburan Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q26.png",
+"answer": "Marvel"
+},
+{
+
+"description": "Merek dari beberapa saluran televisi",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q28.png",
+"answer": "Paramount"
+},
+{
+
+"description": "Pengembang dan penerbit game video multinasional Jepang yang berkantor pusat di Shinagawa",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q29.png",
+"answer": "Sega"
+},
+{
+
+"description": "Sebuah waralaba media opera ruang angkasa epik Amerika",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q30.png",
+ "answer": "Star Wars"
+},
+{
+ 
+ "description": "Perusahaan induk konglomerat teknologi multinasional Cina",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q31.png",
+ "answer": "Tencent Games"
+},
+{
+ 
+ "description": "Film fiksi ilmiah 1984",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q32.png",
+ "answer": "Terminator"
+},
+{
+ 
+ "description": "Layanan jejaring sosial berbagi video",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q33.png",
+ "answer": "Tik Tok"
+},
+{
+ 
+ "description": "Film epik romansa dan bencana Amerika 1997",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q34.png",
+ "answer": "Titanic"
+},
+{
+ 
+ "description": "Platform distribusi audio online dan situs web berbagi musik",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q35.png",
+ "answer": "Soundcloud"
+},
+{
+ 
+ "description": "Perusahaan video game Prancis",
+ "imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q36.png",
+"answer": "Ubisoft"
+},
+{
+
+"description": "Sederetan mainan konstruksi plastik",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q37.png",
+"answer": "Lego"
+},
+{
+
+"description": "Sebuah VoIP, pesan singkat dan platform distribusi digital",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q38.png",
+"answer": "Discord"
+},
+{
+
+"description": "Penyedia layanan streaming audio dan media Swedia",
+"imageUrl": "https://logoquiz.b-cdn.net/entertaiment/questions/ente_q39.png",
+"answer": "Spotify"
+},
+{
+
+"description": "Sebuah divisi dari produsen mobil Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q2.png",
+"answer": "Cadillac"
+},
+{
+
+"description": "Sebuah divisi mobil Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q3.png",
+"answer": "Chevrolet"
+},
+{
+
+"description": "Marque otomotif Inggris didirikan pada tahun 1969",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q4.png",
+"answer": "Mini Cooper"
+},
+{
+
+"description": "Produsen mobil Jerman yang mengkhususkan diri pada mobil sport, SUV, dan sedan performa tinggi",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q5.png",
+"answer": "Porsche"
+},
+{
+
+"description": "Produsen mobil Prancis.",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q6.png",
+"answer": "Citroen"
+},
+{
+
+ "description": "Apakah divisi kendaraan mewah dari produsen mobil Jepang Nissan",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q8.png",
+ "answer": "infiniti"
+},
+{
+ 
+ "description": "Merupakan merek kendaraan mewah Land Rover",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q9.png",
+ "answer": "Jaguar"
+},
+{
+ 
+ "description": "Pabrik kendaraan bermotor Jerman yang didirikan pada tahun 1937",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q10.png",
+ "answer": "VolksWagen"
+},
+{
+ 
+ "description": "Pembuat mobil multinasional Jepang",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q11.png",
+"answer": "Lexus"
+},
+{
+
+"description": "Produsen mobil Prancis.",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q12.png",
+"answer": "Peugeot"
+},
+{
+
+"description": "Sekelompok perusahaan multinasional Jepang yang otonom di berbagai industri.",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q13.png",
+"answer": "Mitsubishi"
+},
+{
+
+"description": "Sebuah perusahaan multinasional Jepang yang berkantor pusat di Minami-ku, Hamamatsu",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q14.png",
+ "answer": "Suzuki"
+},
+{
+ 
+ "description": "Produsen independen Inggris untuk mobil sport mewah dan grand tourer",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q15.png",
+ "answer": "Aston Martin"
+},
+{
+ 
+ "description": "Produsen dan pemasar mobil mewah dan SUV Inggris",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q16.png",
+ "answer": "Bentley"
+},
+{
+ 
+ "description": "Produsen mobil Prancis dengan performa tinggi,",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q17.png",
+ "answer": "Bugatti"
+},
+{
+ 
+ "description": "Produsen mobil Jerman",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q18.png",
+ "answer": "Audi"
+},
+{
+ 
+ "description": "Sebuah merek mobil Amerika dan sebuah divisi dari Stellantis",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q20.png",
+ "answer": "Dodge"
+},
+{
+
+"description": "Produsen mobil sport mewah Italia yang berbasis di Maranello, Italia.",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q21.png",
+"answer": "Ferrari"
+},
+{
+
+"description": "Produsen mobil Italia",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q22.png",
+"answer": "Fiat"
+},
+{
+
+"description": "Pembuat mobil multinasional Amerika",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q23.png",
+"answer": "Ford"
+},
+{
+
+"description": "Produsen konglomerat publik multinasional Jepang untuk mobil, sepeda motor, dan peralatan listrik",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q24.png",
+"answer": "Honda"
+},
+{
+
+"description": "Produsen otomotif multinasional Korea Selatan",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q25.png",
+"answer": "Hyundai"
+},
+{
+
+"description": "Produsen mobil sport performa tinggi Swedia",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q26.png",
+"answer": "Koenigsegg"
+},
+{
+ 
+ "description": "Pembuat mobil multinasional Jepang",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q30.png",
+ "answer": "Mazda"
+},
+{
+ 
+ "description": "Produsen mobil multinasional Jepang",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q31.png",
+"answer": "Nissan"
+},
+{
+
+"description": "Produsen mobil Jerman",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q32.png",
+"answer": "Opel"
+},
+{
+
+"description": "Produsen mobil multinasional Prancis yang didirikan pada tahun 1899.",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q33.png",
+"answer": "Renault"
+},
+{
+
+"description": "Produsen mobil Spanyol",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q35.png",
+"answer": "Seat"
+},
+{
+
+"description": "Apakah divisi manufaktur mobil dari konglomerat transportasi Jepang",
+"imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q37.png",
+"answer": "Subaru"
+},
+{
+  
+   "description": "Perusahaan Motor Amerika Serikat",
+   "imageUrl": "https://raw.githubusercontent.com/yesh0907/Logoquiz-3.0/master/public/imageUrl/q_harley_davidson.png",
+  
+   "answer": "Harley Davidson"
+ },
+{
+    
+     "description": "Merek Minuman Kopi dari Swiss",
+     "imageUrl": "https://raw.githubusercontent.com/yesh0907/Logoquiz-3.0/master/public/imageUrl/q_nescafe.png",
+    
+     "answer": "Nescafe"
+},
+{
+
+ "description": "Perusahaan manufaktur multinasional Swedia",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q38.png",
+ "answer": "Volvo"
+},
+{
+ 
+ "description": "Sebuah perusahaan multinasional Jerman yang memproduksi kendaraan mewah dan sepeda motor.",
+ "imageUrl": "https://logoquiz.b-cdn.net/Automotive/questions/auto_q39.png",
+ "answer": "BMW"
+}
+ ]

@@ -1,502 +1,502 @@
 [
   {
-    "unsur": "Aktinium",
-    "lambang": "Ac"
+    "question": "Aktinium",
+    "answer": "Ac"
   },
   {
-    "unsur": "Aluminium",
-    "lambang": "Al"
+    "question": "Aluminium",
+    "answer": "Al"
   },
   {
-    "unsur": "Antimon",
-    "lambang": "Sb"
+    "question": "Antimon",
+    "answer": "Sb"
   },
   {
-    "unsur": "Perak",
-    "lambang": "Ag"
+    "question": "Perak",
+    "answer": "Ag"
   },
   {
-    "unsur": "Argon",
-    "lambang": "Ar"
+    "question": "Argon",
+    "answer": "Ar"
   },
   {
-    "unsur": "Arsenik",
-    "lambang": "As"
+    "question": "Arsenik",
+    "answer": "As"
   },
   {
-    "unsur": "Astatin",
-    "lambang": "At"
+    "question": "Astatin",
+    "answer": "At"
   },
   {
-    "unsur": "Emas",
-    "lambang": "Au"
+    "question": "Emas",
+    "answer": "Au"
   },
   {
-    "unsur": "Barium",
-    "lambang": "Ba"
+    "question": "Barium",
+    "answer": "Ba"
   },
   {
-    "unsur": "Belerang",
-    "lambang": "S"
+    "question": "Belerang",
+    "answer": "S"
   },
   {
-    "unsur": "Berkelium",
-    "lambang": "Bk"
+    "question": "Berkelium",
+    "answer": "Bk"
   },
   {
-    "unsur": "Berilium",
-    "lambang": "Be"
+    "question": "Berilium",
+    "answer": "Be"
   },
   {
-    "unsur": "Besi",
-    "lambang": "Fe"
+    "question": "Besi",
+    "answer": "Fe"
   },
   {
-    "unsur": "Bismut",
-    "lambang": "Bi"
+    "question": "Bismut",
+    "answer": "Bi"
   },
   {
-    "unsur": "Bohrium",
-    "lambang": "Bh"
+    "question": "Bohrium",
+    "answer": "Bh"
   },
   {
-    "unsur": "Boron",
-    "lambang": "B"
+    "question": "Boron",
+    "answer": "B"
   },
   {
-    "unsur": "Brom",
-    "lambang": "Br"
+    "question": "Brom",
+    "answer": "Br"
   },
   {
-    "unsur": "Tembaga",
-    "lambang": "Cu"
+    "question": "Tembaga",
+    "answer": "Cu"
   },
   {
-    "unsur": "Darmstadtium",
-    "lambang": "Ds"
+    "question": "Darmstadtium",
+    "answer": "Ds"
   },
   {
-    "unsur": "Dubnium",
-    "lambang": "Db"
+    "question": "Dubnium",
+    "answer": "Db"
   },
   {
-    "unsur": "Disprosium",
-    "lambang": "Dy"
+    "question": "Disprosium",
+    "answer": "Dy"
   },
   {
-    "unsur": "Einsteinium",
-    "lambang": "Es"
+    "question": "Einsteinium",
+    "answer": "Es"
   },
   {
-    "unsur": "Emas",
-    "lambang": "Au"
+    "question": "Emas",
+    "answer": "Au"
   },
   {
-    "unsur": "Erbium",
-    "lambang": "Er"
+    "question": "Erbium",
+    "answer": "Er"
   },
   {
-    "unsur": "Europium",
-    "lambang": "Eu"
+    "question": "Europium",
+    "answer": "Eu"
   },
   {
-    "unsur": "Fermium",
-    "lambang": "Fm"
+    "question": "Fermium",
+    "answer": "Fm"
   },
   {
-    "unsur": "Besi",
-    "lambang": "Fe"
+    "question": "Besi",
+    "answer": "Fe"
   },
   {
-    "unsur": "Flerovium",
-    "lambang": "Fl"
+    "question": "Flerovium",
+    "answer": "Fl"
   },
   {
-    "unsur": "Fluor",
-    "lambang": "F"
+    "question": "Fluor",
+    "answer": "F"
   },
   {
-    "unsur": "Fosfor",
-    "lambang": "P"
+    "question": "Fosfor",
+    "answer": "P"
   },
   {
-    "unsur": "Fransium",
-    "lambang": "Fr"
+    "question": "Fransium",
+    "answer": "Fr"
   },
   {
-    "unsur": "Gadolinium",
-    "lambang": "Gd"
+    "question": "Gadolinium",
+    "answer": "Gd"
   },
   {
-    "unsur": "Galium",
-    "lambang": "Ga"
+    "question": "Galium",
+    "answer": "Ga"
   },
   {
-    "unsur": "Germanium",
-    "lambang": "Ge"
+    "question": "Germanium",
+    "answer": "Ge"
   },
   {
-    "unsur": "Hafnium",
-    "lambang": "Hf"
+    "question": "Hafnium",
+    "answer": "Hf"
   },
   {
-    "unsur": "Hassium",
-    "lambang": "Hs"
+    "question": "Hassium",
+    "answer": "Hs"
   },
   {
-    "unsur": "Helium",
-    "lambang": "He"
+    "question": "Helium",
+    "answer": "He"
   },
   {
-    "unsur": "Hidrogen",
-    "lambang": "H"
+    "question": "Hidrogen",
+    "answer": "H"
   },
   {
-    "unsur": "Holmium",
-    "lambang": "Ho"
+    "question": "Holmium",
+    "answer": "Ho"
   },
   {
-    "unsur": "Raksa",
-    "lambang": "Hg"
+    "question": "Raksa",
+    "answer": "Hg"
   },
   {
-    "unsur": "Indium",
-    "lambang": "In"
+    "question": "Indium",
+    "answer": "In"
   },
   {
-    "unsur": "Yodium",
-    "lambang": "I"
+    "question": "Yodium",
+    "answer": "I"
   },
   {
-    "unsur": "Iridium",
-    "lambang": "Ir"
+    "question": "Iridium",
+    "answer": "Ir"
   },
   {
-    "unsur": "Iterbium",
-    "lambang": "Yb"
+    "question": "Iterbium",
+    "answer": "Yb"
   },
   {
-    "unsur": "Itrium",
-    "lambang": "Y"
+    "question": "Itrium",
+    "answer": "Y"
   },
   {
-    "unsur": "Kadmium",
-    "lambang": "Cd"
+    "question": "Kadmium",
+    "answer": "Cd"
   },
   {
-    "unsur": "Kalium",
-    "lambang": "K"
+    "question": "Kalium",
+    "answer": "K"
   },
   {
-    "unsur": "Kalsium",
-    "lambang": "Ca"
+    "question": "Kalsium",
+    "answer": "Ca"
   },
   {
-    "unsur": "Kalifornium",
-    "lambang": "Cf"
+    "question": "Kalifornium",
+    "answer": "Cf"
   },
   {
-    "unsur": "Karbon",
-    "lambang": "C"
+    "question": "Karbon",
+    "answer": "C"
   },
   {
-    "unsur": "Klor",
-    "lambang": "Cl"
+    "question": "Klor",
+    "answer": "Cl"
   },
   {
-    "unsur": "Krom",
-    "lambang": "Cr"
+    "question": "Krom",
+    "answer": "Cr"
   },
   {
-    "unsur": "Kobalt",
-    "lambang": "Co"
+    "question": "Kobalt",
+    "answer": "Co"
   },
   {
-    "unsur": "Kopernisium",
-    "lambang": "Cn"
+    "question": "Kopernisium",
+    "answer": "Cn"
   },
   {
-    "unsur": "Kurium",
-    "lambang": "Cm"
+    "question": "Kurium",
+    "answer": "Cm"
   },
   {
-    "unsur": "Kripton",
-    "lambang": "Kr"
+    "question": "Kripton",
+    "answer": "Kr"
   },
   {
-    "unsur": "Lantanum",
-    "lambang": "La"
+    "question": "Lantanum",
+    "answer": "La"
   },
   {
-    "unsur": "Lawrensium",
-    "lambang": "Lr"
+    "question": "Lawrensium",
+    "answer": "Lr"
   },
   {
-    "unsur": "Litium",
-    "lambang": "Li"
+    "question": "Litium",
+    "answer": "Li"
   },
   {
-    "unsur": "Livermorium",
-    "lambang": "Lv"
+    "question": "Livermorium",
+    "answer": "Lv"
   },
   {
-    "unsur": "Lutetium",
-    "lambang": "Lu"
+    "question": "Lutetium",
+    "answer": "Lu"
   },
   {
-    "unsur": "Magnesium",
-    "lambang": "Mg"
+    "question": "Magnesium",
+    "answer": "Mg"
   },
   {
-    "unsur": "Mangan",
-    "lambang": "Mn"
+    "question": "Mangan",
+    "answer": "Mn"
   },
   {
-    "unsur": "Meitnerium",
-    "lambang": "Mt"
+    "question": "Meitnerium",
+    "answer": "Mt"
   },
   {
-    "unsur": "Mendelevium",
-    "lambang": "Md"
+    "question": "Mendelevium",
+    "answer": "Md"
   },
   {
-    "unsur": "Molibden",
-    "lambang": "Mo"
+    "question": "Molibden",
+    "answer": "Mo"
   },
   {
-    "unsur": "Natrium",
-    "lambang": "Na"
+    "question": "Natrium",
+    "answer": "Na"
   },
   {
-    "unsur": "Neodimium",
-    "lambang": "Nd"
+    "question": "Neodimium",
+    "answer": "Nd"
   },
   {
-    "unsur": "Neon",
-    "lambang": "Ne"
+    "question": "Neon",
+    "answer": "Ne"
   },
   {
-    "unsur": "Neptunium",
-    "lambang": "Np"
+    "question": "Neptunium",
+    "answer": "Np"
   },
   {
-    "unsur": "Nikel",
-    "lambang": "Ni"
+    "question": "Nikel",
+    "answer": "Ni"
   },
   {
-    "unsur": "Niobium",
-    "lambang": "Nb"
+    "question": "Niobium",
+    "answer": "Nb"
   },
   {
-    "unsur": "Nitrogen",
-    "lambang": "N"
+    "question": "Nitrogen",
+    "answer": "N"
   },
   {
-    "unsur": "Nobelium",
-    "lambang": "No"
+    "question": "Nobelium",
+    "answer": "No"
   },
   {
-    "unsur": "Osmium",
-    "lambang": "Os"
+    "question": "Osmium",
+    "answer": "Os"
   },
   {
-    "unsur": "Oksigen",
-    "lambang": "O"
+    "question": "Oksigen",
+    "answer": "O"
   },
   {
-    "unsur": "Paladium",
-    "lambang": "Pd"
+    "question": "Paladium",
+    "answer": "Pd"
   },
   {
-    "unsur": "Perak",
-    "lambang": "Ag"
+    "question": "Perak",
+    "answer": "Ag"
   },
   {
-    "unsur": "Timbal",
-    "lambang": "Pb"
+    "question": "Timbal",
+    "answer": "Pb"
   },
   {
-    "unsur": "Kalium",
-    "lambang": "K"
+    "question": "Kalium",
+    "answer": "K"
   },
   {
-    "unsur": "Natrium",
-    "lambang": "Na"
+    "question": "Natrium",
+    "answer": "Na"
   },
   {
-    "unsur": "Platina",
-    "lambang": "Pt"
+    "question": "Platina",
+    "answer": "Pt"
   },
   {
-    "unsur": "Plutonium",
-    "lambang": "Pu"
+    "question": "Plutonium",
+    "answer": "Pu"
   },
   {
-    "unsur": "Polonium",
-    "lambang": "Po"
+    "question": "Polonium",
+    "answer": "Po"
   },
   {
-    "unsur": "Praseodimium",
-    "lambang": "Pr"
+    "question": "Praseodimium",
+    "answer": "Pr"
   },
   {
-    "unsur": "Prometium",
-    "lambang": "Pm"
+    "question": "Prometium",
+    "answer": "Pm"
   },
   {
-    "unsur": "Protaktinium",
-    "lambang": "Pa"
+    "question": "Protaktinium",
+    "answer": "Pa"
   },
   {
-    "unsur": "Radium",
-    "lambang": "Ra"
+    "question": "Radium",
+    "answer": "Ra"
   },
   {
-    "unsur": "Radon",
-    "lambang": "Rn"
+    "question": "Radon",
+    "answer": "Rn"
   },
   {
-    "unsur": "Renium",
-    "lambang": "Re"
+    "question": "Renium",
+    "answer": "Re"
   },
   {
-    "unsur": "Rodium",
-    "lambang": "Rh"
+    "question": "Rodium",
+    "answer": "Rh"
   },
   {
-    "unsur": "Roentgenium",
-    "lambang": "Rg"
+    "question": "Roentgenium",
+    "answer": "Rg"
   },
   {
-    "unsur": "Rubidium",
-    "lambang": "Rb"
+    "question": "Rubidium",
+    "answer": "Rb"
   },
   {
-    "unsur": "Rutenium",
-    "lambang": "Ru"
+    "question": "Rutenium",
+    "answer": "Ru"
   },
   {
-    "unsur": "Rutherfordium",
-    "lambang": "Rf"
+    "question": "Rutherfordium",
+    "answer": "Rf"
   },
   {
-    "unsur": "Samarium",
-    "lambang": "Sm"
+    "question": "Samarium",
+    "answer": "Sm"
   },
   {
-    "unsur": "Skandium",
-    "lambang": "Sc"
+    "question": "Skandium",
+    "answer": "Sc"
   },
   {
-    "unsur": "Seaborgium",
-    "lambang": "Sg"
+    "question": "Seaborgium",
+    "answer": "Sg"
   },
   {
-    "unsur": "Selenium",
-    "lambang": "Se"
+    "question": "Selenium",
+    "answer": "Se"
   },
   {
-    "unsur": "Serium",
-    "lambang": "Ce"
+    "question": "Serium",
+    "answer": "Ce"
   },
   {
-    "unsur": "Sesium",
-    "lambang": "Cs"
+    "question": "Sesium",
+    "answer": "Cs"
   },
   {
-    "unsur": "Silikon",
-    "lambang": "Si"
+    "question": "Silikon",
+    "answer": "Si"
   },
   {
-    "unsur": "Seng",
-    "lambang": "Zn"
+    "question": "Seng",
+    "answer": "Zn"
   },
   {
-    "unsur": "Timah",
-    "lambang": "Sn"
+    "question": "Timah",
+    "answer": "Sn"
   },
   {
-    "unsur": "Antimon",
-    "lambang": "Sb"
+    "question": "Antimon",
+    "answer": "Sb"
   },
   {
-    "unsur": "Strontium",
-    "lambang": "Sr"
+    "question": "Strontium",
+    "answer": "Sr"
   },
   {
-    "unsur": "Talium",
-    "lambang": "Tl"
+    "question": "Talium",
+    "answer": "Tl"
   },
   {
-    "unsur": "Tantalum",
-    "lambang": "Ta"
+    "question": "Tantalum",
+    "answer": "Ta"
   },
   {
-    "unsur": "Teknetium",
-    "lambang": "Tc"
+    "question": "Teknetium",
+    "answer": "Tc"
   },
   {
-    "unsur": "Telurium",
-    "lambang": "Te"
+    "question": "Telurium",
+    "answer": "Te"
   },
   {
-    "unsur": "Tembaga",
-    "lambang": "Cu"
+    "question": "Tembaga",
+    "answer": "Cu"
   },
   {
-    "unsur": "Terbium",
-    "lambang": "Tb"
+    "question": "Terbium",
+    "answer": "Tb"
   },
   {
-    "unsur": "Timah",
-    "lambang": "Sn"
+    "question": "Timah",
+    "answer": "Sn"
   },
   {
-    "unsur": "Timbal",
-    "lambang": "Pb"
+    "question": "Timbal",
+    "answer": "Pb"
   },
   {
-    "unsur": "Titanium",
-    "lambang": "Ti"
+    "question": "Titanium",
+    "answer": "Ti"
   },
   {
-    "unsur": "Torium",
-    "lambang": "Th"
+    "question": "Torium",
+    "answer": "Th"
   },
   {
-    "unsur": "Tulium",
-    "lambang": "Tm"
+    "question": "Tulium",
+    "answer": "Tm"
   },
   {
-    "unsur": "Wolfram",
-    "lambang": "W"
+    "question": "Wolfram",
+    "answer": "W"
   },
   {
-    "unsur": "Oganeson",
-    "lambang": "Og"
+    "question": "Oganeson",
+    "answer": "Og"
   },
   {
-    "unsur": "Moscovium",
-    "lambang": "Mc"
+    "question": "Moscovium",
+    "answer": "Mc"
   },
   {
-    "unsur": "Nihonium",
-    "lambang": "Nh"
+    "question": "Nihonium",
+    "answer": "Nh"
   },
   {
-    "unsur": "Uranium",
-    "lambang": "U"
+    "question": "Uranium",
+    "answer": "U"
   },
   {
-    "unsur": "Vanadium",
-    "lambang": "V"
+    "question": "Vanadium",
+    "answer": "V"
   },
   {
-    "unsur": "Xenon",
-    "lambang": "Xe"
+    "question": "Xenon",
+    "answer": "Xe"
   },
   {
-    "unsur": "Zirkonium",
-    "lambang": "Zr"
+    "question": "Zirkonium",
+    "answer": "Zr"
   }
 ]

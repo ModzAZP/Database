@@ -1,382 +1,382 @@
 [
     {
-        "pertanyaan": "Bagai anak ____ kehilangan induknya",
-        "jawaban": "Ayam"
+        "question": "Bagai anak ____ kehilangan induknya",
+        "answer": "Ayam"
     },
     {
-        "pertanyaan": "Bagai air di ____ talas",
-        "jawaban": "Daun"
+        "question": "Bagai air di ____ talas",
+        "answer": "Daun"
     },
     {
-        "pertanyaan": "Hidup dikandung _______ mati dikandung tanah",
-        "jawaban": "Adat"
+        "question": "Hidup dikandung _______ mati dikandung tanah",
+        "answer": "Adat"
     },
     {
-        "pertanyaan": "Jauh di _______ , dekat di hati",
-        "jawaban": "Mata"
+        "question": "Jauh di _______ , dekat di hati",
+        "answer": "Mata"
     },
     {
-        "pertanyaan": "Tak ada rotan _______ pun jadi",
-        "jawaban": "Akar"
+        "question": "Tak ada rotan _______ pun jadi",
+        "answer": "Akar"
     },
     {
-        "pertanyaan": "Utang emas boleh dibayar, Utang _______ dibawa mati",
-        "jawaban": "Budi"
+        "question": "Utang emas boleh dibayar, Utang _______ dibawa mati",
+        "answer": "Budi"
     },
     {
-        "pertanyaan": "Ada udang dibalik _______",
-        "jawaban": "Batu"
+        "question": "Ada udang dibalik _______",
+        "answer": "Batu"
     },
     {
-        "pertanyaan": "Ada _______ ada semut",
-        "jawaban": "Gula"
+        "question": "Ada _______ ada semut",
+        "answer": "Gula"
     },
     {
-        "pertanyaan": "Kura _______ dalam Perahu",
-        "jawaban": "Kura"
+        "question": "Kura _______ dalam Perahu",
+        "answer": "Kura"
     },
     {
-        "pertanyaan": "Ada _______ ada api",
-        "jawaban": "Asap"
+        "question": "Ada _______ ada api",
+        "answer": "Asap"
     },
     {
-        "pertanyaan": "Bagai _______ dan langit",
-        "jawaban": "Bumi"
+        "question": "Bagai _______ dan langit",
+        "answer": "Bumi"
     },
     {
-        "pertanyaan": "Daripada hujan _______ di negeri orang, lebih baik hujan batu di negeri sendiri",
-        "jawaban": "Emas"
+        "question": "Daripada hujan _______ di negeri orang, lebih baik hujan batu di negeri sendiri",
+        "answer": "Emas"
     },
     {
-        "pertanyaan": "Dikasih _______ minta jantung",
-        "jawaban": "Hati"
+        "question": "Dikasih _______ minta jantung",
+        "answer": "Hati"
     },
     {
-        "pertanyaan": "_______ lubang tutup lubang",
-        "jawaban": "Gali"
+        "question": "_______ lubang tutup lubang",
+        "answer": "Gali"
     },
     {
-        "pertanyaan": "Hangat hangat _______ ayam",
-        "jawaban": "Tahi"
+        "question": "Hangat hangat _______ ayam",
+        "answer": "Tahi"
     },
     {
-        "pertanyaan": "Hemat pangkal _______ , rajin pangkal pandai",
-        "jawaban": "Kaya"
+        "question": "Hemat pangkal _______ , rajin pangkal pandai",
+        "answer": "Kaya"
     },
     {
-        "pertanyaan": "_______ bertanya sesat dijalan",
-        "jawaban": "Malu"
+        "question": "_______ bertanya sesat dijalan",
+        "answer": "Malu"
     },
     {
-        "pertanyaan": "_______ sudah menjadi bubur",
-        "jawaban": "Nasi"
+        "question": "_______ sudah menjadi bubur",
+        "answer": "Nasi"
     },
     {
-        "pertanyaan": "Pucuk dicinta _______ pun tiba",
-        "jawaban": "Ulam"
+        "question": "Pucuk dicinta _______ pun tiba",
+        "answer": "Ulam"
     },
     {
-        "pertanyaan": "Seperti ilmu _______ makin berisi makin merunduk",
-        "jawaban": "Padi"
+        "question": "Seperti ilmu _______ makin berisi makin merunduk",
+        "answer": "Padi"
     },
     {
-        "pertanyaan": "Tong ___________ nyaring bunyinya",
-        "jawaban": "kosong"
+        "question": "Tong ___________ nyaring bunyinya",
+        "answer": "kosong"
     },
     {
-        "pertanyaan": "Senjata _________ tuan",
-        "jawaban": "Makan"
+        "question": "Senjata _________ tuan",
+        "answer": "Makan"
     },
     {
-        "pertanyaan": "Tak ada ___________ yang tak retak",
-        "jawaban": "Gading"
+        "question": "Tak ada ___________ yang tak retak",
+        "answer": "Gading"
     },
     {
-        "pertanyaan": "Tuntutlah _______ hingga ke negeri Cina",
-        "jawaban": "Ilmu"
+        "question": "Tuntutlah _______ hingga ke negeri Cina",
+        "answer": "Ilmu"
     },
     {
-        "pertanyaan": "Besar _________ dari pada tiang",
-        "jawaban": "Pasak"
+        "question": "Besar _________ dari pada tiang",
+        "answer": "Pasak"
     },
     {
-        "pertanyaan": "Sepandai-pandainya _________ melompat, sekali waktu jatuh juga",
-        "jawaban": "Tupai"
+        "question": "Sepandai-pandainya _________ melompat, sekali waktu jatuh juga",
+        "answer": "Tupai"
     },
     {
-        "pertanyaan": "Hancur _________ dikandung tanah, budi baik dikenang juga",
-        "jawaban": "Badan"
+        "question": "Hancur _________ dikandung tanah, budi baik dikenang juga",
+        "answer": "Badan"
     },
     {
-        "pertanyaan": "Bersatu kita teguh, _______________ kita runtuh",
-        "jawaban": "Bercerai"
+        "question": "Bersatu kita teguh, _______________ kita runtuh",
+        "answer": "Bercerai"
     },
     {
-        "pertanyaan": "Habis manis _________ dibuang",
-        "jawaban": "Sepah"
+        "question": "Habis manis _________ dibuang",
+        "answer": "Sepah"
     },
     {
-        "pertanyaan": "Hidup _________ mati tak hendak/mau",
-        "jawaban": "Segan"
+        "question": "Hidup _________ mati tak hendak/mau",
+        "answer": "Segan"
     },
     {
-        "pertanyaan": "Lain ladang lain belalang, lain _________ lain ikannya",
-        "jawaban": "Lubuk"
+        "question": "Lain ladang lain belalang, lain _________ lain ikannya",
+        "answer": "Lubuk"
     },
     {
-        "pertanyaan": "Menjilat _________ sendiri",
-        "jawaban": "Ludah"
+        "question": "Menjilat _________ sendiri",
+        "answer": "Ludah"
     },
     {
-        "pertanyaan": "Memancing di air _________",
-        "jawaban": "Ludah"
+        "question": "Memancing di air _________",
+        "answer": "Ludah"
     },
     {
-        "pertanyaan": "_________ makan tanaman",
-        "jawaban": "Pagar"
+        "question": "_________ makan tanaman",
+        "answer": "Pagar"
     },
     {
-        "pertanyaan": "Seperti kuda _________ dari pinggitan",
-        "jawaban": "Lepas"
+        "question": "Seperti kuda _________ dari pinggitan",
+        "answer": "Lepas"
     },
     {
-        "pertanyaan": "Air ___________ tanda tak dalam",
-        "jawaban": "Beriak"
+        "question": "Air ___________ tanda tak dalam",
+        "answer": "Beriak"
     },
     {
-        "pertanyaan": "Ayam berkokok hari _________",
-        "jawaban": "Siang"
+        "question": "Ayam berkokok hari _________",
+        "answer": "Siang"
     },
     {
-        "pertanyaan": "Bagai air di daun _________",
-        "jawaban": "Talas"
+        "question": "Bagai air di daun _________",
+        "answer": "Talas"
     },
     {
-        "pertanyaan": "Bagai _________ dalam tempurung",
-        "jawaban": "Katak"
+        "question": "Bagai _________ dalam tempurung",
+        "answer": "Katak"
     },
     {
-        "pertanyaan": "Di mana bumi di _________ disitu langit dijunjung",
-        "jawaban": "Pijak"
+        "question": "Di mana bumi di _________ disitu langit dijunjung",
+        "answer": "Pijak"
     },
     {
-        "pertanyaan": "Guru kencing berdiri, _________ kencing berlari",
-        "jawaban": "Murid"
+        "question": "Guru kencing berdiri, _________ kencing berlari",
+        "answer": "Murid"
     },
     {
-        "pertanyaan": "Kecil-kecil cabai _________",
-        "jawaban": "Rawit"
+        "question": "Kecil-kecil cabai _________",
+        "answer": "Rawit"
     },
     {
-        "pertanyaan": "Sudah _________ tertimpa tangga",
-        "jawaban": "Jatuh"
+        "question": "Sudah _________ tertimpa tangga",
+        "answer": "Jatuh"
     },
     {
-        "pertanyaan": "Sambil menyelam _________ air",
-        "jawaban": "Minum"
+        "question": "Sambil menyelam _________ air",
+        "answer": "Minum"
     },
     {
-        "pertanyaan": "Seperti ayam kehilangan _________",
-        "jawaban": "Induk"
+        "question": "Seperti ayam kehilangan _________",
+        "answer": "Induk"
     },
     {
-        "pertanyaan": "Sedia payung sebelum _________",
-        "jawaban": "Hujan"
+        "question": "Sedia payung sebelum _________",
+        "answer": "Hujan"
     },
     {
-        "pertanyaan": "Sedikit demi sedikit lama-lama menjadi _________",
-        "jawaban": "Bukit"
+        "question": "Sedikit demi sedikit lama-lama menjadi _________",
+        "answer": "Bukit"
     },
     {
-        "pertanyaan": "_________ mati dilumbung padi",
-        "jawaban": "Tikus"
+        "question": "_________ mati dilumbung padi",
+        "answer": "Tikus"
     },
     {
-        "pertanyaan": "_________ ke bawah tumpul ke atas",
-        "jawaban": "Tajam"
+        "question": "_________ ke bawah tumpul ke atas",
+        "answer": "Tajam"
     },
     {
-        "pertanyaan": "_________ adalah uang",
-        "jawaban": "Waktu"
+        "question": "_________ adalah uang",
+        "answer": "Waktu"
     },
     {
-        "pertanyaan": "Badai _________ berlalu",
-        "jawaban": "Pasti"
+        "question": "Badai _________ berlalu",
+        "answer": "Pasti"
     },
     {
-        "pertanyaan": "_________ dalam selimut",
-        "jawaban": "Musuh"
+        "question": "_________ dalam selimut",
+        "answer": "Musuh"
     },
     {
-        "pertanyaan": "Umur setahun ___________ , darah setapuk pinang",
-        "jawaban": "Jagung"
+        "question": "Umur setahun ___________ , darah setapuk pinang",
+        "answer": "Jagung"
     },
     {
-        "pertanyaan": "Bagaikan ___________ dalam sangkar",
-        "jawaban": "Burung"
+        "question": "Bagaikan ___________ dalam sangkar",
+        "answer": "Burung"
     },
     {
-        "pertanyaan": "Ada uang ada ___________",
-        "jawaban": "Barang"
+        "question": "Ada uang ada ___________",
+        "answer": "Barang"
     },
     {
-        "pertanyaan": "Air ___________ tanda tak dalam",
-        "jawaban": "Beriak"
+        "question": "Air ___________ tanda tak dalam",
+        "answer": "Beriak"
     },
     {
-        "pertanyaan": "Bagai ___________ dibelah dua",
-        "jawaban": "Pinang"
+        "question": "Bagai ___________ dibelah dua",
+        "answer": "Pinang"
     },
     {
-        "pertanyaan": "Diam ___________ bahasa",
-        "jawaban": "Seribu"
+        "question": "Diam ___________ bahasa",
+        "answer": "Seribu"
     },
     {
-        "pertanyaan": "Harimau mati meninggalkan ___________ , gajah mati meninggalkan gading",
-        "jawaban": "Belang"
+        "question": "Harimau mati meninggalkan ___________ , gajah mati meninggalkan gading",
+        "answer": "Belang"
     },
     {
-        "pertanyaan": "___________ lupa akan kulitnya",
-        "jawaban": "Kacang"
+        "question": "___________ lupa akan kulitnya",
+        "answer": "Kacang"
     },
     {
-        "pertanyaan": "___________ batu sembunyi tangan",
-        "jawaban": "Lempar"
+        "question": "___________ batu sembunyi tangan",
+        "answer": "Lempar"
     },
     {
-        "pertanyaan": "Air ___________ menghanyutkan",
-        "jawaban": "Tenang"
+        "question": "Air ___________ menghanyutkan",
+        "answer": "Tenang"
     },
     {
-        "pertanyaan": "Datang tak dijemput ___________ tidak diantar",
-        "jawaban": "Pulang"
+        "question": "Datang tak dijemput ___________ tidak diantar",
+        "answer": "Pulang"
     },
     {
-        "pertanyaan": "Dari ___________ yang jernih tak akan mengalir air yang keruh",
-        "jawaban": "Telaga"
+        "question": "Dari ___________ yang jernih tak akan mengalir air yang keruh",
+        "answer": "Telaga"
     },
     {
-        "pertanyaan": "___________ badan dikandung tanah budi baik terkenang juga",
-        "jawaban": "Hancur"
+        "question": "___________ badan dikandung tanah budi baik terkenang juga",
+        "answer": "Hancur"
     },
     {
-        "pertanyaan": "___________ berbulu ayam",
-        "jawaban": "Musang"
+        "question": "___________ berbulu ayam",
+        "answer": "Musang"
     },
     {
-        "pertanyaan": "Tak ada ___________ yang tak retak",
-        "jawaban": "Gading"
+        "question": "Tak ada ___________ yang tak retak",
+        "answer": "Gading"
     },
     {
-        "pertanyaan": "Tua-tua ___________ makin tua makin menjadi",
-        "jawaban": "Keladi"
+        "question": "Tua-tua ___________ makin tua makin menjadi",
+        "answer": "Keladi"
     },
     {
-        "pertanyaan": "Berat sama ___________ , ringan sama dijinjing",
-        "jawaban": "Dipikul"
+        "question": "Berat sama ___________ , ringan sama dijinjing",
+        "answer": "Dipikul"
     },
     {
-        "pertanyaan": "Bagai ___________ merindukan bulan",
-        "jawaban": "Pungguk"
+        "question": "Bagai ___________ merindukan bulan",
+        "answer": "Pungguk"
     },
     {
-        "pertanyaan": "Air susu ___________ dengan air tuba",
-        "jawaban": "Dibalas"
+        "question": "Air susu ___________ dengan air tuba",
+        "answer": "Dibalas"
     },
     {
-        "pertanyaan": "Bagai burung dalam ___________",
-        "jawaban": "Sangkar"
+        "question": "Bagai burung dalam ___________",
+        "answer": "Sangkar"
     },
     {
-        "pertanyaan": "Berguru kepalang ajar seperti bunga ___________ tak jadi",
-        "jawaban": "Kembang"
+        "question": "Berguru kepalang ajar seperti bunga ___________ tak jadi",
+        "answer": "Kembang"
     },
     {
-        "pertanyaan": "Anjing menggonggong kafilah ___________",
-        "jawaban": "Berlalu"
+        "question": "Anjing menggonggong kafilah ___________",
+        "answer": "Berlalu"
     },
     {
-        "pertanyaan": "Dunia tak ___________ daun kelor",
-        "jawaban": "Selebar"
+        "question": "Dunia tak ___________ daun kelor",
+        "answer": "Selebar"
     },
     {
-        "pertanyaan": "Gajah di ___________ mata tak tampat, semut diseberang lautan tampak",
-        "jawaban": "Pelupuk"
+        "question": "Gajah di ___________ mata tak tampat, semut diseberang lautan tampak",
+        "answer": "Pelupuk"
     },
     {
-        "pertanyaan": "Gajah mati meninggalkan gading, ___________ mati meninggalkan belang",
-        "jawaban": "Harimau"
+        "question": "Gajah mati meninggalkan gading, ___________ mati meninggalkan belang",
+        "answer": "Harimau"
     },
     {
-        "pertanyaan": "Menepuk air di dulang, terpercik muka ___________",
-        "jawaban": "Sendiri"
+        "question": "Menepuk air di dulang, terpercik muka ___________",
+        "answer": "Sendiri"
     },
     {
-        "pertanyaan": "Seperti pinang ___________ dua",
-        "jawaban": "Dibelah"
+        "question": "Seperti pinang ___________ dua",
+        "answer": "Dibelah"
     },
     {
-        "pertanyaan": "Bagai air di _______ talas",
-        "jawaban": "Daun"
+        "question": "Bagai air di _______ talas",
+        "answer": "Daun"
     },
     {
-        "pertanyaan": "Dari semak ke ___________",
-        "jawaban": "Belukar"
+        "question": "Dari semak ke ___________",
+        "answer": "Belukar"
     },
     {
-        "pertanyaan": "Daripada hidup bercermin ___________ , lebih baik mati berkalang tanah",
-        "jawaban": "Bangkai"
+        "question": "Daripada hidup bercermin ___________ , lebih baik mati berkalang tanah",
+        "answer": "Bangkai"
     },
     {
-        "pertanyaan": "Habis _________ sepah dibuang",
-        "jawaban": "Manis"
+        "question": "Habis _________ sepah dibuang",
+        "answer": "Manis"
     },
     {
-        "pertanyaan": "Jauh di _______ , dekat di hati",
-        "jawaban": "Mata"
+        "question": "Jauh di _______ , dekat di hati",
+        "answer": "Mata"
     },
     {
-        "pertanyaan": "Maksud hati memeluk ___________ , apa daya tangan tak sampai",
-        "jawaban": "Gunung"
+        "question": "Maksud hati memeluk ___________ , apa daya tangan tak sampai",
+        "answer": "Gunung"
     },
     {
-        "pertanyaan": "Malu _______________ sesat di jalan",
-        "jawaban": "Bertanya"
+        "question": "Malu _______________ sesat di jalan",
+        "answer": "Bertanya"
     },
     {
-        "pertanyaan": "Sambil _______________ minum air",
-        "jawaban": "Menyelam"
+        "question": "Sambil _______________ minum air",
+        "answer": "Menyelam"
     },
     {
-        "pertanyaan": "Ada uang abang di ___________ , tak ada uang abang melayang",
-        "jawaban": "Sayang"
+        "question": "Ada uang abang di ___________ , tak ada uang abang melayang",
+        "answer": "Sayang"
     },
     {
-        "pertanyaan": "Air susu dibalas dengan air _______",
-        "jawaban": "Tuba"
+        "question": "Air susu dibalas dengan air _______",
+        "answer": "Tuba"
     },
     {
-        "pertanyaan": "Kacang lupa akan _______________",
-        "jawaban": "Kulitnya"
+        "question": "Kacang lupa akan _______________",
+        "answer": "Kulitnya"
     },
     {
-        "pertanyaan": "_______________ air ludah",
-        "jawaban": "Menjilat"
+        "question": "_______________ air ludah",
+        "answer": "Menjilat"
     },
     {
-        "pertanyaan": "_______________ berburu/berbulu domba",
-        "jawaban": "Serigala"
+        "question": "_______________ berburu/berbulu domba",
+        "answer": "Serigala"
     },
     {
-        "pertanyaan": "Lidah tak _______________",
-        "jawaban": "Bertulang"
+        "question": "Lidah tak _______________",
+        "answer": "Bertulang"
     },
     {
-        "pertanyaan": "Selama hayat masih di _____________ badan",
-        "jawaban": "Kandung"
+        "question": "Selama hayat masih di _____________ badan",
+        "answer": "Kandung"
     },
     {
-        "pertanyaan": "Jangan _________________ di air keruh",
-        "jawaban": "Bercermin"
+        "question": "Jangan _________________ di air keruh",
+        "answer": "Bercermin"
     }
 ]
